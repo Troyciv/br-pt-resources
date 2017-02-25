@@ -115,7 +115,7 @@ Although there are quite some resources for intermediate lerners available, of w
 
 * switch the language of your OS, Phone, Facebook, Twitter etc.
 * create a pt-only list for twitter and add it to your tweetdeck to get bite-sized portuguese every day
-* create Anki decks from movies/series with [subs2anki](https://sourceforge.net/projects/subs2srs/files/)(Windows) or [SubtitleMemorize](https://github.com/kaegi/SubtitleMemorize)(Linux)
+* create Anki decks from movies/series with [subs2anki](https://sourceforge.net/projects/subs2srs/files/)(Windows) or [SubtitleMemorize](https://github.com/kaegi/SubtitleMemorize) + [MorphMan](https://github.com/kaegi/MorphMan)(Linux)
 
 ### Additional helpers <a name=helpers></a>
 
@@ -126,7 +126,7 @@ Although there are quite some resources for intermediate lerners available, of w
 
 ###### Q&A
 
-* [/r/portuguese](https://reddit.com/r/portuguese) - This sub
+* [/r/portuguese](https://reddit.com/r/portuguese) 
 * [/r/portuguese Discord Server](https://discord.gg/D6NRw4d)
 * [portuguese.stackexchange](http://portuguese.stackexchange.com/)
 
