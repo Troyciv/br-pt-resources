@@ -7,6 +7,7 @@
 2. [Beginner](#beginner)
 3. [Intermediate to advanced](#intermediate)
 4. [Additional helpers](#helpers)
+5. [Anki](#anki)
 5. [Native Material](#native)
 
 ### Introduction <a name=intro></a>
@@ -142,7 +143,7 @@ Although there are quite some resources for intermediate lerners available, of w
 * [Speak like a brazilian](https://www.speaklikeabrazilian.com/) (slang/idioms)
 * [Dicionário informal](http://www.dicionarioinformal.com.br/) (slang/idioms)
 
-### Anki
+### Anki <a name=anki></a>
 
 * subs2anki / subtitleMemorize
 * memrise2anki
