@@ -108,8 +108,9 @@ Although there are quite some resources for intermediate lerners available, of w
 
 ###### other ######
 
-* [great article about the subjuntivo](https://www.duolingo.com/comment/9508268) 
-* [article about tenses](https://www.duolingo.com/comment/1483888)
+* [Duolingo articles index](https://www.duolingo.com/comment/6331998)
+* [Great article about the subjuntivo](https://www.duolingo.com/comment/9508268) 
+* [Article about tenses](https://www.duolingo.com/comment/1483888)
 * [Words of connection](http://www.sk.com.br/sk-conn.html) (list of useful vocabulary for intermediate learners)
 
 ###### additional ideas
@@ -145,9 +146,10 @@ Although there are quite some resources for intermediate lerners available, of w
 
 ### Anki <a name=anki></a>
 
-* subs2anki / subtitleMemorize
-* memrise2anki
+* [subs2srs]() / [subtitleMemorize](https://github.com/kaegi/SubtitleMemorize)
+* [Memrise to Anki](https://github.com/pschlette/memrise2anki-extension)
 * image resizer
+* [Duolingo to Anki](https://github.com/abesto/duolingo-to-anki)
  
 
 ### Native Material <a name=native></a>
@@ -194,9 +196,12 @@ Of course this list wouldn't be of any use if I didn't add any novelas, since th
 
 
 ###### Youtube
+A top100 list can be found [here](https://socialblade.com/youtube/top/country/br)
+
+* [Turma da Mônica](https://www.youtube.com/channel/UCV4XcEqBswMCryorV_gNENw) - easy
+* [Galinha Pintadinha](https://www.youtube.com/channel/UCBAb_DK4GYZqZR9MFA7y2Xg) - easy
 * [Peppa Pig](https://www.youtube.com/channel/UCvD9GB-E4q_TuMpwUtFBhLA) - easy
 * [Bob Zoom](https://www.youtube.com/channel/UCZcsG6kUpOLQZZpTMSAernw) - easy
-* [Galinha Pintadinha](https://www.youtube.com/channel/UCBAb_DK4GYZqZR9MFA7y2Xg) - easy
 * [O pequeno reino de Ben e Holly](https://www.youtube.com/channel/UCtfoEVSgFIPPoUIwwT9t0pA) - easy
 * [Nerdologia](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA) - Nerd facts
 * [o mundo segundo os brasileiros](https://www.youtube.com/channel/UCmmEqfKnnjqioLjsd7SkcjA) - travel video blog, intermediate
@@ -206,7 +211,8 @@ Of course this list wouldn't be of any use if I didn't add any novelas, since th
 * [fatos desconhecidos](https://www.youtube.com/user/fatosdesconhecidos/featured)
 * [Maual do Mundo](https://www.youtube.com/channel/UCKHhA5hN2UohhFDfNXB_cvQ) - Life hacks
 * [Minutos Psíquicos](https://www.youtube.com/user/minutospsiquicos/featured)
-* [The Noite](https://www.youtube.com/channel/UCEWOoncsrmirqnFqxer9lmA) - Late noght show
+* [The Noite](https://www.youtube.com/channel/UCEWOoncsrmirqnFqxer9lmA) - Late night show
+* [G1 Notícias](https://www.youtube.com/channel/UCS0fbuKcJj0cE-Mpygt7s_Q)
 
 ###### Movies
 * [Cidade de Deus](http://www.imdb.com/title/tt0317248)
@@ -251,3 +257,6 @@ Of course this list wouldn't be of any use if I didn't add any novelas, since th
 * [Sensacionalista](http://www.sensacionalista.com.br/)
 * [Piauí Herald](http://piaui.folha.uol.com.br/herald/)
 * [porta dos fundos](https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag) - humour, advanced
+
+###### Other
+* [guia de media](http://www.guiademidia.com.br/) - collection
